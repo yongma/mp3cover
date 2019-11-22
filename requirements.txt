@@ -1,0 +1,11 @@
+altgraph==0.14
+dis3==0.1.1
+future==0.16.0
+macholib==1.8
+mutagen==1.38
+olefile==0.44
+pefile==2017.11.5
+Pillow==4.3.0
+PyInstaller==3.3
+pypiwin32==219
+python-magic==0.4.13
