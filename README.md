@@ -1,2 +1,4 @@
 # mp3cover
-Simple utility to get, set and some other operations of embedding cover image in MP3 files.
+Simple utility to enable artwork displaying of mp3 files on Toyota Highlander CD player, mp3 files that downloaded from *Netease Cloud Music* is supported right now.
+
+Please refer https://github.com/yoki123/ncmdump for NCM files converting.
