@@ -6,6 +6,6 @@ mutagen==1.38
 olefile==0.44
 pefile==2017.11.5
 Pillow==8.3.2
-PyInstaller==3.3
+PyInstaller==3.6
 pypiwin32==219
 python-magic==0.4.13
