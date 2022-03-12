@@ -5,7 +5,7 @@ macholib==1.8
 mutagen==1.38
 olefile==0.44
 pefile==2017.11.5
-Pillow==8.3.2
+Pillow==9.0.1
 PyInstaller==3.6
 pypiwin32==219
 python-magic==0.4.13
